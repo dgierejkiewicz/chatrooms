@@ -1,0 +1,14 @@
+{
+    "name": "chatrooms",
+    "version": "0.0.1",
+    "description": "Minimalistyczny serwer czatu",
+    "dependencies": {
+        "socket.io": "latest",
+        "mime": "~1.2.7"
+    },
+    "author": "Dariusz",
+    "license": "UNLICENSED",
+    "repository": ""
+    // "private": true
+
+}
